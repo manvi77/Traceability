@@ -10,4 +10,3 @@ Run: run prototype.py (which contains inputs as requirements and test results an
 
 Output: open export.html in your browser
 
-![alt tag](https://raw.github.com/manvi77/Traceability/output.png)
